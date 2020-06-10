@@ -18,6 +18,7 @@ function Invoke-PSProjectTemplate {
         Author					Version			Date			Notes
         -------------------------------------------------------------------------------
         harish.karthic		    v1.0			10/06/2020		Initial script
+        harish.karthic		    v1.0			10/06/2020		Added to module
     #>
     
     [CmdletBinding()]
@@ -75,3 +76,4 @@ function Invoke-PSProjectTemplate {
         Write-Verbose "End.."
     }
 }
+Export-ModuleMember -Function Invoke-PSProjectTemplate
