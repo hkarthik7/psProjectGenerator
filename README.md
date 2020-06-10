@@ -6,7 +6,7 @@ creating folder structure for the new projects.
 
 ## Getting Started
 
-You can clone the repository or down module from output directory or install it from [PowerShell Gallery](https://www.powershellgallery.com/packages/psProjectGenerator/1.0).
+You can clone the repository and download module from output directory or install it from [PowerShell Gallery](https://www.powershellgallery.com/packages/psProjectGenerator/1.0).
 
 Here is an example on how to import and call the module in your session. Either you can place the module in environment module paths or provide the complete path to module.
 
